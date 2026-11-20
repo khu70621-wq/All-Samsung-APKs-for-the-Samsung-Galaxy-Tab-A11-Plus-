@@ -1,2 +1,3 @@
 # All-Samsung-APKs-for-the-Samsung-Galaxy-Tab-A11-Plus-
 This is for recovery for Samsung APKs. If you accidentally delete one or somehow you delete it, you can easily recover it because I have the restore tool right here. 
+But before doing this you need to make sure of what you're doing. Reinstalling or uninstalling any APKs can permanently destroy the APK or ruin your tablet. Do this at your own risk. I'm not responsible for any damages caused by this. You've been warned. This is not a virus. These are actual APKs meant for this device. Make sure you have a full backup of these APIs before you do anything. 
